@@ -1,1 +1,1 @@
-![docker postman.jpg](..%2F%D0%B4%D1%83%D1%80%D0%B0%2Fdocker%20postman.jpg)
+![docker postman](https://github.com/user-attachments/assets/d72aa40d-032f-4da0-abf5-10819b015fe1)
